@@ -1,7 +1,7 @@
 # Battery Time-Series Intelligence Assistant
 ## Technical Architecture & Research Report
 
-**Project Context:** A production-quality, modular Python pipeline for automated ingestion, preprocessing, event detection, and feature extraction of lithium-ion battery telemetry, complete with a natural language Telegram Bot interface.
+**Project Context:** A production-quality, modular Python pipeline for automated ingestion, preprocessing, event detection, and feature extraction of lithium-ion battery telemetry, complete with a natural language Telegram Bot interface ([@VoltWatchhBot](https://t.me/VoltWatchhBot)).
 
 ---
 

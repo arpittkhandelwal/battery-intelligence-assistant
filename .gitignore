@@ -5,9 +5,6 @@ __pycache__/
 venv/
 .env
 
-# Data
-*.csv
-
 # Deployment
 HF_Deploy/
 HF_Space/
