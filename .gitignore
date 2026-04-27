@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data
+*.csv
+
+# Deployment
+HF_Deploy/
+HF_Space/
+
+# OS
+.DS_Store
